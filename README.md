@@ -1,2 +1,1 @@
-# yaopp-api
-Yes, another one personal planner - YAOPP
+# Yes, Another One Personal Planner
